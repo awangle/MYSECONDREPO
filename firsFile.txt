@@ -2,4 +2,4 @@ adding while on master branch
 line 2
 line 3 from master
 new line
-
+add a line to branch
